@@ -2,6 +2,8 @@
 
 ## Our Pledge
 
+joan was here 
+
 We as members, contributors, and leaders pledge to make participation in the
 Soroban Cookbook community a harassment-free experience for everyone, regardless
 of age, body size, visible or invisible disability, ethnicity, sex
