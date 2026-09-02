@@ -2,9 +2,11 @@
 
 Welcome to the Soroban Cookbook community. These guidelines exist to keep our spaces welcoming, productive, and safe for everyone.
 
-## Our Values
+## Our Value
 
-- **Openness** — We welcome contributors of all backgrounds and experience levels.
+
+joan
+- **Openness** — We welcome contributors of all backgrounds and experience 
 - **Respect** — We treat every person with dignity in every interaction.
 - **Collaboration** — We share knowledge freely and help each other grow.
 - **Quality** — We take pride in correct, well-tested, clearly documented work.

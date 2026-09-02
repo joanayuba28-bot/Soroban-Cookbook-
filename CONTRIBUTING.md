@@ -2,7 +2,7 @@
 
 Before participating, please read our [Community Guidelines](./COMMUNITY_GUIDELINES.md) and [Code of Conduct](./CODE_OF_CONDUCT.md).
 
-## Built With the Cookbook
+## Built With the Cookbook uiujmjmik
 
 We showcase **10+ real production projects** built using the Soroban Cookbook in
 our [Showcase](./SHOWCASE.md). It includes featured projects, case studies, and a
